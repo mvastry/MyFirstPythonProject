@@ -1,0 +1,46 @@
+ECHO is on.
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+
+# VS Code settings
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS files
+.DS_Store
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Test outputs
+htmlcov/
+coverage.xml
+*.cover
+
+# Env files
+.env
+.env.*
+
+# PyInstaller
+*.spec
+
+# MyPy
+.mypy_cache/
+
+# Others
+*.bak
+
